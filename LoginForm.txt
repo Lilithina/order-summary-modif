@@ -1,0 +1,1 @@
+layout 1: add the layout of the login form
