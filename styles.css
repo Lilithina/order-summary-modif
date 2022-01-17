@@ -1,0 +1,33 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+/* modif style attribution
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); } */
+
+body{
+  background-color: hsl(225, 100%, 94%);
+}
+.background{
+  position: relative;
+  height: 30em;
+  background-image: url(images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: cover, 100%;
+}
+section{
+  background: white;
+  border-radius: 10px;
+  margin: 5em auto;
+  width: 380px;
+  height: 35em;
+}
+
+#footer{
+  width: auto;
+  height: 11.6em;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
